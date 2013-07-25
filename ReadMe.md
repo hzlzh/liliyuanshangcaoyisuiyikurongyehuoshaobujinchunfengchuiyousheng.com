@@ -1,14 +1,18 @@
-好吧，我承认是好玩，域名注册字符上限`64位` 字符/数字/连字符
+> 好吧，我承认是好玩，满足域名注册字符上限`64位` 字符/数字/连字符
 
+```
 《赋得古原草送别》 - 白居易(唐)  
 
-li li yuan shang cao  
-离离原上草  
-yi sui yi ku rong  
-一岁一枯荣  
-ye huo shao bu jin  
-野火烧不尽  
-chun feng chui you sheng  
-春风吹又生  
+lí lí yuán shàng cǎo  
+离 离 原 上 草  
+yī suì yī kū róng   
+一 岁 一 枯 荣  
+yě huǒ shāo bú jìn  
+野 火 烧 不 尽  
+chūn fēng chuī yòu shēng   
+春 风 吹 又 生  
+```
+[liliyuanshangcaoyisuiyikurongyehuoshaobujinchunfengchuiyousheng.com](http://liliyuanshangcaoyisuiyikurongyehuoshaobujinchunfengchuiyousheng.com)  
+*(len = 64)*  
 
-谨此纪念我那被x掉的博客域名 <del> hzlzh.com </del>
+谨此纪念我那远去的域名 - <del> hzlzh.com </del>
