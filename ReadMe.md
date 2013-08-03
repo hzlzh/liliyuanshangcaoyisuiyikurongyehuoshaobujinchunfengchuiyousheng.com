@@ -13,6 +13,6 @@ chūn fēng chuī yòu shēng
 春 风 吹 又 生  
 ```
 [liliyuanshangcaoyisuiyikurongyehuoshaobujinchunfengchuiyousheng.com](http://liliyuanshangcaoyisuiyikurongyehuoshaobujinchunfengchuiyousheng.com)  
-*(len < 64)*  
+*(len = 63)*  
 
 谨此纪念我那远去的域名 - <del> hzlzh.com </del>
