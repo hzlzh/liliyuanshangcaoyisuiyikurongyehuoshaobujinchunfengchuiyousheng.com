@@ -1,4 +1,4 @@
-> 好吧，我承认是好玩，满足域名注册字符上限`64位` 字符/数字/连字符
+> 好吧，我承认是好玩，满足域名注册字符**上限** `小于64位` 字符/数字/连字符
 
 ```
 《赋得古原草送别》 - 白居易(唐)  
@@ -13,6 +13,6 @@ chūn fēng chuī yòu shēng
 春 风 吹 又 生  
 ```
 [liliyuanshangcaoyisuiyikurongyehuoshaobujinchunfengchuiyousheng.com](http://liliyuanshangcaoyisuiyikurongyehuoshaobujinchunfengchuiyousheng.com)  
-*(len = 64)*  
+*(len < 64)*  
 
 谨此纪念我那远去的域名 - <del> hzlzh.com </del>
